@@ -67,7 +67,13 @@ Set($SideBySidePreview, 1);
 1. Perform a search.
 2. Click anywhere in a ticket row — the history for that ticket appears below
    (or to the right in side-by-side mode).
-3. If inline edit is enabled for some fields, click outside the edit area
+3. Use the **Preview** button in the search menu bar to toggle the preview
+   panel on or off without changing your saved preferences. The state is
+   remembered across page navigations via the browser's local storage.
+
+![Preview toggle button in search menu](doc/images/toggle-button.png)
+
+4. If inline edit is enabled for some fields, click outside the edit area
    (a pencil icon appears when hovering over editable fields).
 
 To reduce scrolling, set **Rows per page** to a smaller number in the search
