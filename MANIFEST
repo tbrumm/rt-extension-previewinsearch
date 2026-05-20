@@ -4,6 +4,7 @@ doc/images/preview-screenshot.png
 doc/images/preview-settings.png
 etc/upgrade/remove_files
 html/Callbacks/RT-Extension-PreviewInSearch/Elements/ShowHistoryPage/Initial
+html/Callbacks/RT-Extension-PreviewInSearch/Elements/Tabs/Privileged
 html/Callbacks/RT-Extension-PreviewInSearch/Search/Results.html/AfterResults
 html/Helpers/TicketPreview
 inc/Module/Install.pm
