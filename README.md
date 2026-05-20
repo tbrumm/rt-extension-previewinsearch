@@ -79,6 +79,10 @@ Set($SideBySidePreview, 1);
 To reduce scrolling, set **Rows per page** to a smaller number in the search
 settings.
 
+The preview only shows ticket creation, internal comments and email replies
+(Correspond). Status changes, owner assignments and other system transactions
+are intentionally hidden to keep the list focused.
+
 ## Author
 
 Best Practical Solutions, LLC
